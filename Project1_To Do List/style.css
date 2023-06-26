@@ -7,8 +7,9 @@
 .container{
     width: 100%;
     min-height: 100vh;
-    background: linear-gradient(135deg, #637715, #4e085f);
+    background: linear-gradient(135deg, #157753, #4e085f);
     padding: 10px;
+    box-shadow: 0 4px 8px rgb(5, 5, 5);;
 }
 .todo-app{
     width: 50%;
@@ -22,9 +23,10 @@
     color: #002765;
     display: flex;
     align-items: center;
+    font-weight: 400;
 }
 .todo-app h2 img{
-    width: 30px;
+    width: 40px;
     margin-left: 10px;
 }
 .row{
@@ -34,7 +36,7 @@
     background: #edeef0;
     border-radius: 30px;
     padding-left: 20px;
-    margin-bottom: 20px;
+    margin: 10px 20px;
 }
 input{
     flex: 1;
@@ -51,6 +53,7 @@ button{
     color: #fff;
     border-radius: 40px;
     font-size: 16px;
+    font-weight: 300;
     cursor: pointer;
 }
 
