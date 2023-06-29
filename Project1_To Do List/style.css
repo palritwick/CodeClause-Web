@@ -44,6 +44,8 @@ input{
     outline: none;
     background: transparent;
     padding: 10px;
+    font-size: 1rem;
+    font-weight: 400;
 }
 button{
     border: none;
