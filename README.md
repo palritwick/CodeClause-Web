@@ -22,6 +22,8 @@ Version Control: Git, GitHub
 
 // The ToDo List WebApp is live at - https://palritwick.github.io/To-Do-List-App/
 
+// Internship Completion Certificate - https://l1nk.dev/piSuH
+
 // Skills Demonstration:
 
 1. Frontend Web Development using APIs and modern Javascript.
